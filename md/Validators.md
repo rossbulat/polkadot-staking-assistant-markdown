@@ -1,4 +1,5 @@
 ::validators
+
 ::definitions
 
 # Minimum Nomination Bond

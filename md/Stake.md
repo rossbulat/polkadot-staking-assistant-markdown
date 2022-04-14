@@ -1,4 +1,5 @@
 ::stake
+
 ::definitions
 
 # Stash and Controller Accounts
